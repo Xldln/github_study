@@ -7,6 +7,7 @@ app = Flask(__name__)
 def upload_file():
     print(123123)
     print(111111)
+    print(1212121)
     print("test success!!!")
     return 'test success!!!', 200
 
