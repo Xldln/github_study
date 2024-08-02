@@ -33,3 +33,5 @@ ssh —T git@github.com
 使用git remote add origin https://github.com/****/****.git设置好自己仓库的url
 然后使用git push -u origin main 完成推送
 现在我来测试.gitnore文件是否起作用
+再来测试.gitignore是否起作用
+
