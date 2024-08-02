@@ -32,3 +32,4 @@ ssh —T git@github.com
 7.上传文件需要先设置好origin
 使用git remote add origin https://github.com/****/****.git设置好自己仓库的url
 然后使用git push -u origin main 完成推送
+现在我来测试.gitnore文件是否起作用

@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/test', methods=['POST'])
 def upload_file():
-
+    print(123123)
     print("test success!!!")
     return 'test success!!!', 200
 
